@@ -143,3 +143,18 @@ Ends with a `[MORAL]` section containing:
 - Single-sentence life lesson
 - Ethical takeaway
 - Universal wisdom
+
+## 👤 Author
+
+**Vishal Shivhare**
+- GitHub: [@Vishal-AI-ML](https://github.com/Vishal-AI-ML)
+- LinkedIn: [Vishal Shivhare](https://linkedin.com/in/vishal-shivhare-562508243)
+- Email: vishalshivhare.ai@gmail.com
+
+## 🙏 Acknowledgments
+
+- Google Gemini for powerful AI capabilities
+- OpenWeather, NewsAPI, and SerpAPI for data services
+- Unsplash for beautiful imagery
+- Streamlit for the amazing framework
+
